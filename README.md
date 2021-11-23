@@ -1,6 +1,6 @@
 # Getting Started with google-maps-wrapper
 
-you can input api key in ./src/Components/GoogleMaps/WrapperMaps.tsx 
+you can input gogle maps api key in ./src/Components/GoogleMaps/WrapperMaps.tsx 
 https://github.com/estrover/google-maps-wrapper/blob/master/src/Components/GoogleMaps/WrapperMaps.tsx
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
